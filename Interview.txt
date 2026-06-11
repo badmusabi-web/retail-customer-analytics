@@ -1,0 +1,14 @@
+I created a retail analytics portfolio that demonstrates how I approach real-world data problems using SQL and Python.
+
+It includes data quality validation checks like duplicate detection and reconciliation between source and transformed data, sales trend analysis using time-series SQL, customer segmentation based on value and behavior, and advanced window function analytics like ranking and running totals.
+
+The goal was to simulate an enterprise BI environment where data is used for KPI reporting and decision-making, similar to what I’ve worked on in AWS Athena and BI dashboard environments.
+
+
+This is very aligned with my experience in enterprise analytics environments, particularly during BI migrations and reporting validation work.
+
+For example, I’ve worked extensively with AWS Athena and BI tools where I had to reconcile data between source systems and reporting layers, validate KPI accuracy, and ensure consistency across dashboards.
+
+The data quality checks in this project mirror the same validation logic I used in production environments, especially around duplicate detection, missing data analysis, and reconciliation between raw and transformed datasets.
+
+Similarly, the trend and customer segmentation logic reflects how I supported business stakeholders in understanding performance trends and customer behavior patterns.
